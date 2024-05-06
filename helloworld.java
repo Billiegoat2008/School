@@ -1,5 +1,5 @@
-// Writen by Billie CHrleston, And Kim Gross
-// My fisdt hello wrold program
+// Writen by Billie Charleston, And Kim Gross
+// My fist hello world program
 // Programming development
 public class helloworld {
   public static void main(String[] args) {
